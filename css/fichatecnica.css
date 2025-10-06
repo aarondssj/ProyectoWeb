@@ -1,0 +1,23 @@
+.fichatecnica {
+  margin: 30px 0;
+}
+
+.ficha {
+  background-color: #ffffffc7;
+  border: 1px solid #a19fa2;
+  padding: 20px;
+  border-left: 5px solid #a19fa2;
+
+
+}
+
+.ficha p {
+  margin: 10px 0;
+  color: #333;
+}
+
+.ficha h2 {
+  color:  #231F26
+
+}
+
